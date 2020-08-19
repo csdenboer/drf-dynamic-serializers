@@ -1,5 +1,7 @@
 *.pyc
 *.egg-info
 .idea
+.coverage
 build/
 dist/
+docs/build

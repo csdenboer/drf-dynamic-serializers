@@ -1,5 +1,3 @@
-from abc import ABC
-
 from rest_framework.serializers import Serializer, ModelSerializer
 
 from .mixins import DynamicFieldsSerializerMixin
