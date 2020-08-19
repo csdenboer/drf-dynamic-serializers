@@ -14,6 +14,14 @@ drf-dynamic-serializers
    :target: https://drf-dynamic-serializers.readthedocs.io/
    :alt: Documentation
 
+.. image:: https://secure.travis-ci.org/csdenboer/drf-dynamic-serializers.svg?branch=master
+   :target: http://travis-ci.org/csdenboer/drf-dynamic-serializers
+   :alt: Build Status
+
+.. image:: https://codecov.io/gh/csdenboer/drf-dynamic-serializers/branch/master/graph/badge.svg
+   :target: https://codecov.io/gh/csdenboer/drf-dynamic-serializers
+   :alt: Coverage
+
 Dynamic serializers and view(set)s for the Django REST Framework.
 
 Functionality
