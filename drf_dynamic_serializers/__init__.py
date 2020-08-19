@@ -1,0 +1,1 @@
+default_app_config = 'drf_dynamic_serializers.apps.DRFDynamicSerializersConfig'
