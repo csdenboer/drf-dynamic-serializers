@@ -20,7 +20,7 @@ Functionality
 -------------
 DRF Dynamic Serializers is a package that aims to increase the reusability of Django REST Framework's serializer classes. Serializers that inherit from `DynamicFieldsSerializer` are dynamic. The fields to include and/or exclude can be overriden as well as the `allow_null` and `required` property of fields. A common use case is a list and a detail endpoint sharing the same serializer class but with different fields included.
 
-Furthermore, the package provides a viewset class (`DynamicFieldsModelViewSet`) that extends Django REST Framework's ModelViewSet with the the ability to dynamically select the fields to include or exclude in a response by reading the `fields` and `omit` query parameters of a request.
+Furthermore, the package provides a viewset class (`DynamicFieldsModelViewSet`) that extends Django REST Framework's ModelViewSet with the the ability to dynamically select the fields to include or exclude in a response by reading the `fields` and `exclude` query parameters of a request.
 
 Documentation
 -------------

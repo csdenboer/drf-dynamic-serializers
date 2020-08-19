@@ -23,4 +23,4 @@ View
 Example URLs:
 
 - ``/payments/?fields=id,mutation.delta``
-- ``/payments/?omit=id,mutation.delta``
+- ``/payments/?exclude=id,mutation.delta``
