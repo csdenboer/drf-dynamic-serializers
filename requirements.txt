@@ -1,4 +1,4 @@
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 django-appconf==1.0.4
 coverage==5.2.1
 pytest==6.0.1
