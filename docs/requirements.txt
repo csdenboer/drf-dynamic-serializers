@@ -1,5 +1,5 @@
 sphinx==3.2.1
 sphinx-rtd-theme==0.5.0
 Django==2.2.20
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 django-appconf==1.0.4
